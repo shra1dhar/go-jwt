@@ -1,0 +1,1 @@
+## Go implementation for REST API secured with JSON Web Token
